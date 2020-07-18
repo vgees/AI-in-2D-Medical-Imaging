@@ -1,11 +1,10 @@
-# AI-in-2D-Medical-Imaging
-In this project I have build algorithm for deducting pneumonia using chest X-ray. The dataset for this project was curated by the NIH specifically to address the problem of a lack of large x-ray datasets with ground truth labels to be used in the creation of disease detection algorithms. 
+# AI in 2D Medical-Imaging - Pneumonia Detection from Chest X-Rays
 
-# Pneumonia Detection from Chest X-Rays
+In this project I have build algorithm for deducting pneumonia using chest X-ray. The dataset for this project was curated by the NIH specifically to address the problem of a lack of large x-ray datasets with ground truth labels to be used in the creation of disease detection algorithms. 
 
 ## Project Overview
 
-In this project, you will apply the skills that you have acquired in this 2D medical imaging course  to analyze data from the NIH Chest X-ray Dataset and train a CNN to classify a given chest x-ray for the presence or absence of pneumonia. This project will culminate in a model that can predict the presence of pneumonia with human radiologist-level accuracy that can be prepared for submission to the FDA for 510(k) clearance as software as a medical device. As part of the submission preparation, you will formally describe your model, the data that it was trained on, and a validation plan that meets FDA criteria.
+In this project, I have applied my skills that I have acquired in this 2D medical imaging course to analyze data from the NIH Chest X-ray Dataset and train a CNN to classify a given chest x-ray for the presence or absence of pneumonia. This project will culminate in a model that can predict the presence of pneumonia with human radiologist-level accuracy that can be prepared for submission to the FDA for 510(k) clearance as software as a medical device. As part of the submission preparation, you will formally describe your model, the data that it was trained on, and a validation plan that meets FDA criteria.
 
 You will be provided with the medical images with clinical labels for each image that were extracted from their accompanying radiology reports. 
 
